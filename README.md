@@ -1,7 +1,7 @@
 # WebRTC and Socket.io
 
 ### How to install :
-`$ node install`
+`$ npm install`
 
 Go to the project root folder and run
 
